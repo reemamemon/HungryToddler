@@ -9,7 +9,7 @@ This project simulates a scenario where a toddler interacts with pieces of candy
 - Deployed on Hugging Face Spaces.
 
 ## Live Demo
-You can access the live demo of the application [here](https://huggingface.co/spaces/reemamemon/HungryToddler).
+You can access the live demo of the application [here](https://huggingface.co/spaces/YourUsername/Hungry-Toddler-Candy-Tracker).
 
 ## Installation
 
@@ -17,8 +17,8 @@ You can access the live demo of the application [here](https://huggingface.co/sp
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/Hungry-Toddler-Candy-Tracker.git
-    cd Hungry-Toddler-Candy-Tracker
+    git clone https://github.com/reemamemon/HungryToddler.git
+    cd HungryToddler
     ```
 
 2. Install the required dependencies:
