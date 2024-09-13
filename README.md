@@ -35,7 +35,7 @@ You can access the live demo of the application [here](https://huggingface.co/sp
 
 ### Deployed Version
 
-The app is deployed on **Hugging Face Spaces**. You can try it out by visiting [this link](https://huggingface.co/spaces/YourUsername/Hungry-Toddler-Candy-Tracker).
+The app is deployed on **Hugging Face Spaces**. You can try it out by visiting [this link](https://huggingface.co/spaces/reemamemon/HungryToddler).
 
 ## How to Use
 
