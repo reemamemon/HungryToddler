@@ -9,7 +9,7 @@ This project simulates a scenario where a toddler interacts with pieces of candy
 - Deployed on Hugging Face Spaces.
 
 ## Live Demo
-You can access the live demo of the application [here](https://huggingface.co/spaces/YourUsername/Hungry-Toddler-Candy-Tracker).
+You can access the live demo of the application [here](https://huggingface.co/spaces/reemamemon/HungryToddler).
 
 ## Installation
 
